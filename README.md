@@ -3,5 +3,7 @@ Este repositório contém os tutoriais usados na disciplina Laboratório de Rob�
 
 Estes tutoriais foram desenvolvidos por:
   Carolina Fany Andreoni Duarte   - carol-duarte@ufmg.br
+  
   Israel Filipe Silva Amaral      - israelfilipe@ufmg.br
+  
   Lorran Pires Venetillo Dutra    - lorranvenetillo@ufmg.br

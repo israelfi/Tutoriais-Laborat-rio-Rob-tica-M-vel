@@ -9,4 +9,4 @@ Estes tutoriais foram desenvolvidos por:
   
   Lorran Pires Venetillo Dutra    - [lorranvenetillo]@[ufmg].[br]
 
-Para enviar mensagens sobre os tutoriais disponíveis, retire os colchetes, [].
+Para enviar mensagens sobre os tutoriais disponíveis, retire os colchetes, [], dos endereços de email.

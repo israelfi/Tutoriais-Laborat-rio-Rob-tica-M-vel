@@ -1,4 +1,4 @@
-# Tutoriais Laboratório Robótica Móvel
+# Tutoriais Laboratório de Robótica Móvel
 Este repositório contém os tutoriais usados na disciplina Laboratório de Robótica Móvel, lecionada pelo Prof. Gustavo Medeiros Freitas, da Universidade Federal de Minas Gerais (UFMG).
 
 Estes tutoriais foram desenvolvidos por:
